@@ -1,5 +1,5 @@
 #!/bin/bash
-#Autosnort script for Ubuntu 12.04+
+#AutoMISP script for Ubuntu 12.04+
 ########################################
 
 #PLEASE MAKE SURE TO SET THE FOLLOWING VARIABLES:
